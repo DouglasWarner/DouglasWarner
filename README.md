@@ -1,5 +1,4 @@
-### Hi there I’m Douglas Warner 👋
----
+# Hi there I’m Douglas Warner 👋
 
 - 🔭 I'm currently working as **Android/iOS Developer at [Prosolution](https://prosolution.com)**
 - 👀 I’m interested in good practices and Clean Architecture.
