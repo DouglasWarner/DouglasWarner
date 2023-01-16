@@ -7,8 +7,10 @@
 
 ## Skills
 - Android SDK's
-- RESTfull API's
+- iOS SDK's
 - Android Jetpack Architecture
+- iOS CoreService 
+- RESTfull API's
 - User Experience
 - Clean Architecture
 - Architecture Patterns (MVVM, MVP)
